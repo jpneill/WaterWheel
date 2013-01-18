@@ -6,3 +6,5 @@ A chaotic waterwheel is a physical model that demonstrates the Lorenz system of 
 This program simulates the motion of a chaotic waterwheel under different initial conditions. The equations of motion are solved by mathematica which returns an array detailing the change in angle of the system and the current mass of fluid in each container at each time step.
 
 Requires mathematica to run.
+
+A java applet version of this can be found here: http://people.web.psi.ch/gassmann/waterwheel/Wwheel1.HTML
